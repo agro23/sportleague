@@ -1,0 +1,11 @@
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\bin\Debug\netcoreapp1.1\SportLeague.deps.json
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\bin\Debug\netcoreapp1.1\SportLeague.runtimeconfig.json
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\bin\Debug\netcoreapp1.1\SportLeague.runtimeconfig.dev.json
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\bin\Debug\netcoreapp1.1\SportLeague.dll
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\bin\Debug\netcoreapp1.1\SportLeague.pdb
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\obj\Debug\netcoreapp1.1\SportLeague.csprojResolveAssemblyReference.cache
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\obj\Debug\netcoreapp1.1\SportLeague.csproj.CoreCompileInputs.cache
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\obj\Debug\netcoreapp1.1\SportLeague.AssemblyInfoInputs.cache
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\obj\Debug\netcoreapp1.1\SportLeague.AssemblyInfo.cs
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\obj\Debug\netcoreapp1.1\SportLeague.dll
+C:\Users\epicodus\Desktop\SportLeague\SportLeague\obj\Debug\netcoreapp1.1\SportLeague.pdb

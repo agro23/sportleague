@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\epicodus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\epicodus\\.nuget\\packages"
+    ]
+  }
+}
